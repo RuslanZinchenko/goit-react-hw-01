@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-01/static/css/main.584f321a.chunk.css",
-    "main.js": "/goit-react-hw-01/static/js/main.ab4c3681.chunk.js",
-    "main.js.map": "/goit-react-hw-01/static/js/main.ab4c3681.chunk.js.map",
-    "runtime~main.js": "/goit-react-hw-01/static/js/runtime~main.bdf556df.js",
-    "runtime~main.js.map": "/goit-react-hw-01/static/js/runtime~main.bdf556df.js.map",
-    "static/js/2.b41502e9.chunk.js": "/goit-react-hw-01/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/goit-react-hw-01/static/js/2.b41502e9.chunk.js.map",
-    "index.html": "/goit-react-hw-01/index.html",
-    "precache-manifest.7b15fc7e3440a181fe4ccb5db7766755.js": "/goit-react-hw-01/precache-manifest.7b15fc7e3440a181fe4ccb5db7766755.js",
-    "service-worker.js": "/goit-react-hw-01/service-worker.js",
-    "static/css/main.584f321a.chunk.css.map": "/goit-react-hw-01/static/css/main.584f321a.chunk.css.map",
-    "static/media/logo.svg": "/goit-react-hw-01/static/media/logo.5d5d9eef.svg"
+    "main.css": "/goit-react-hw-01/build/static/css/main.584f321a.chunk.css",
+    "main.js": "/goit-react-hw-01/build/static/js/main.3981ca3a.chunk.js",
+    "main.js.map": "/goit-react-hw-01/build/static/js/main.3981ca3a.chunk.js.map",
+    "runtime~main.js": "/goit-react-hw-01/build/static/js/runtime~main.cf39eb3c.js",
+    "runtime~main.js.map": "/goit-react-hw-01/build/static/js/runtime~main.cf39eb3c.js.map",
+    "static/js/2.b41502e9.chunk.js": "/goit-react-hw-01/build/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/goit-react-hw-01/build/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/goit-react-hw-01/build/index.html",
+    "precache-manifest.f15e2cc31bf6f971ff87c27b0742a28b.js": "/goit-react-hw-01/build/precache-manifest.f15e2cc31bf6f971ff87c27b0742a28b.js",
+    "service-worker.js": "/goit-react-hw-01/build/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/goit-react-hw-01/build/static/css/main.584f321a.chunk.css.map",
+    "static/media/logo.svg": "/goit-react-hw-01/build/static/media/logo.5d5d9eef.svg"
   }
 }
