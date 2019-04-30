@@ -1,0 +1,12 @@
+.transactionHistory {
+  margin: 30px auto;
+  background-color: rgb(250, 195, 173);
+}
+
+.transactionColumn {
+  padding: 10px 0;
+}
+
+.transactionRow {
+  padding: 0 20px;
+}
