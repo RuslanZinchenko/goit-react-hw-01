@@ -25,7 +25,7 @@ const TransactionHistory = ({ items }) => (
 );
 
 TransactionHistory.defaultProps = {
-  items: ' [] ',
+  items: [],
 };
 
 export default TransactionHistory;
